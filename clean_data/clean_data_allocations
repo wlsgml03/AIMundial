@@ -1,0 +1,14 @@
+import pandas as pd
+
+##list of director
+file_path = 'data/allocations/allocations_'
+file_years = [2016,2017,2018,2019,2020,2021,2022,2023]
+
+for file in range(len(file_years)):
+    df = pd.read_csv(file_path + str(file_years[file]) + '.csv')
+    df.to_csv('data/allocations/allocations_' + str(file_years[file]) + '.csv', index=False)
+    ##if year column has value of 2016>= and food organization column has value
+    ##World Food Programme and Food Agr
+
+    df.to_csv()
+    

@@ -1,0 +1,24 @@
+import pandas as pd
+
+file_path = 'data/allocations/allocations_'
+file_years = [2016,2017,2018,2019,2020,2021,2022,2023, 2024, 2025,2026]
+
+all_data = []
+target_orgs = ['WFP', 'FAO']
+for year in file_years:
+    df = pd.read_csv(file_path + str(year) + '.csv')
+    #look at agency column
+    column = df['Agency']
+    #if agency column has value of 'WFP' and 'FAO', extract that row and save it to a new csv file
+    filtered_df = df[df['Agency'].isin(target_orgs)].copy()
+    if filtered_df.empty:
+        continue
+    year_total = filtered_df['Budget'].sum()
+    total_row = {'Year': year,
+                 'Cluster': 'ALL',
+                 'Agency': 'ALL',
+                'Budget': year_total}
+    filtered_df = pd.concat([filtered_df, pd.DataFrame([total_row])], ignore_index=True)
+    all_data.append(filtered_df)
+final_df = pd.concat(all_data, ignore_index=True)
+final_df.to_csv('clean_data/clean_allocations/combined_allocations.csv', index=False)
