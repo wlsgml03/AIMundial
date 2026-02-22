@@ -1,0 +1,376 @@
+countryName,year,totalAmountApproved
+Afghanistan,2016,3312409.0
+Afghanistan,2017,4600042.0
+Afghanistan,2018,8362704.0
+Afghanistan,2019,422360.0
+Afghanistan,2020,21625000.0
+Afghanistan,2021,24398459.0
+Afghanistan,2022,4000000.0
+Afghanistan,2023,36353477.0
+Afghanistan,2025,8187996.1899999995
+Algeria,2022,2077814.0
+Angola,2016,833373.0
+Angola,2017,1405448.0
+Angola,2018,900003.0
+Angola,2019,743083.0
+Angola,2020,781748.0
+Angola,2021,1255000.0
+Angola,2022,3750000.0
+Angola,2024,1650000.0
+Antigua and Barbuda,2017,831313.0
+Armenia,2023,728860.0
+Bahamas,2019,400000.0
+Bangladesh,2016,1340302.0
+Bangladesh,2017,6088657.0
+Bangladesh,2018,4750011.0
+Bangladesh,2019,1850002.0
+Bangladesh,2020,6560000.0
+Bangladesh,2021,999548.0
+Bangladesh,2022,5800000.0
+Bangladesh,2023,7127000.0
+Bangladesh,2024,11570285.0
+Bolivia,2025,600000.0900000001
+Burkina Faso,2018,6015030.0
+Burkina Faso,2019,2289108.0
+Burkina Faso,2020,7800000.0
+Burkina Faso,2021,5250006.0
+Burkina Faso,2022,9280405.0
+Burkina Faso,2023,8500000.0
+Burkina Faso,2024,4300000.01
+Burkina Faso,2025,1599998.06
+Burundi,2016,5026722.0
+Burundi,2017,3000011.0
+Burundi,2018,2074536.0
+Burundi,2019,559796.0
+Burundi,2020,1500000.0
+Burundi,2021,525010.0
+Burundi,2022,4000007.0
+Burundi,2024,4150198.7
+Burundi,2025,850075.62
+Cameroon,2016,2485459.0
+Cameroon,2017,4603806.0
+Cameroon,2018,5964034.0
+Cameroon,2019,4659735.0
+Cameroon,2020,4500025.0
+Cameroon,2021,1749996.0
+Cameroon,2022,3150099.0
+Cameroon,2023,349999.0
+Cameroon,2024,2419851.59
+Central African Republic,2016,3714614.0
+Central African Republic,2017,10615615.0
+Central African Republic,2018,3679608.0
+Central African Republic,2020,1000994.0
+Central African Republic,2021,3500042.0
+Central African Republic,2022,8700000.0
+Central African Republic,2023,3499997.0
+Central African Republic,2025,3000001.06
+Chad,2016,11183201.0
+Chad,2017,9156074.0
+Chad,2018,10049949.0
+Chad,2019,5456866.0
+Chad,2020,6525005.0
+Chad,2021,3102459.0
+Chad,2022,12900011.0
+Chad,2023,7281783.0
+Chad,2024,13300000.0
+Chad,2025,5000005.6899999995
+Colombia,2018,2014143.0
+Colombia,2019,1501005.0
+Colombia,2020,889521.0
+Colombia,2021,935492.0
+Colombia,2022,2044858.0
+Colombia,2023,1800000.0
+Colombia,2025,1500000.0
+Comoros,2019,894184.0
+Cote d'Ivoire,2016,1228025.0
+Cuba,2016,2056743.0
+Cuba,2017,2305892.0
+Cuba,2019,149962.0
+Cuba,2022,2298191.0
+Cuba,2024,3200024.12
+Cuba,2025,2710015.61
+Democratic People's Republic of Korea,2016,6037173.0
+Democratic People's Republic of Korea,2017,5396051.0
+Democratic People's Republic of Korea,2018,3245000.0
+Democratic People's Republic of Korea,2019,3999890.0
+Democratic People's Republic of Korea,2020,2600000.0
+Democratic Republic of the Congo,2016,5646360.0
+Democratic Republic of the Congo,2017,6219273.0
+Democratic Republic of the Congo,2018,22100241.0
+Democratic Republic of the Congo,2019,7993510.0
+Democratic Republic of the Congo,2020,22100762.0
+Democratic Republic of the Congo,2021,12298971.0
+Democratic Republic of the Congo,2022,14148612.0
+Democratic Republic of the Congo,2023,9476288.0
+Democratic Republic of the Congo,2024,10006421.43
+Democratic Republic of the Congo,2025,8749803.46
+Djibouti,2016,1269902.0
+Djibouti,2019,1850000.0
+Djibouti,2020,737350.0
+Djibouti,2022,1400000.0
+Djibouti,2023,1699000.0
+Dominica,2017,1499459.0
+Eastern Africa,2020,11500000.0
+Ecuador,2016,2000000.0
+Ecuador,2018,536002.0
+Egypt,2023,1700000.0
+Egypt,2024,2000000.0
+El Salvador,2019,1303859.0
+El Salvador,2020,1474844.0
+Equatorial Guinea,2021,599984.0
+Eritrea,2018,476593.0
+Eritrea,2019,400000.0
+Eritrea,2022,1000022.0
+Eritrea,2023,1500000.0
+Eritrea,2024,2000087.87
+Eritrea,2026,915000.0
+Ethiopia,2016,7961416.0
+Ethiopia,2017,18011688.0
+Ethiopia,2018,1496790.0
+Ethiopia,2019,6500000.0
+Ethiopia,2020,8000001.0
+Ethiopia,2021,12347980.0
+Ethiopia,2022,2500000.0
+Ethiopia,2023,9050000.0
+Ethiopia,2024,19333333.78
+Ethiopia,2025,1000000.47
+Ethiopia,2026,2500000.02
+Fiji,2016,2818056.0
+Fiji,2020,599843.0
+Fiji,2021,500000.0
+Gambia,2022,650000.0
+Global,2020,43000000.0
+Grenada,2024,600000.1799999999
+Guatemala,2016,3632115.0
+Guatemala,2018,154598.0
+Guatemala,2019,1011259.0
+Guatemala,2020,3748787.0
+Guatemala,2025,2800000.0
+Guinea,2021,900000.0
+Guinea,2024,1325000.0
+Haiti,2016,2643967.0
+Haiti,2018,1734470.0
+Haiti,2019,5679807.0
+Haiti,2020,3999881.0
+Haiti,2021,1500000.0
+Haiti,2022,7000000.0
+Haiti,2023,10700000.0
+Haiti,2024,7800288.36
+Haiti,2025,3999999.99
+Honduras,2019,2559924.0
+Honduras,2020,4249999.0
+Honduras,2022,1494650.0
+Honduras,2024,1500000.0
+Honduras,2025,1178031.65
+India,2018,716790.0
+Indonesia,2018,2200138.0
+Iraq,2017,10000001.0
+Jamaica,2024,898401.41
+Jamaica,2025,1200000.0
+Kenya,2016,1500004.0
+Kenya,2017,5500132.0
+Kenya,2019,3200000.0
+Kenya,2020,1139999.0
+Kenya,2021,1900000.0
+Kenya,2022,4250001.0
+Kenya,2023,3500000.0
+Kenya,2024,600000.0
+Kyrgyzstan,2022,353000.0
+Lao People's Democratic Republic,2016,328811.0
+Lao People's Democratic Republic,2018,2549555.0
+Lebanon,2020,999481.0
+Lebanon,2021,3998359.0
+Lebanon,2024,5599968.0600000005
+Lesotho,2016,2234699.0
+Lesotho,2019,6029853.0
+Lesotho,2024,1200000.0
+Libya,2016,2487750.0
+Libya,2017,950000.0
+Libya,2018,3609214.0
+Libya,2019,1902143.0
+Libya,2024,1000000.6
+Madagascar,2016,3911842.0
+Madagascar,2017,5900018.0
+Madagascar,2019,3098954.0
+Madagascar,2020,1749918.0
+Madagascar,2021,5950000.0
+Madagascar,2022,5614508.0
+Madagascar,2023,7000000.0
+Madagascar,2024,2375000.0
+Madagascar,2025,1049998.42
+Malawi,2016,608270.0
+Malawi,2019,8788065.0
+Malawi,2022,1199993.0
+Malawi,2023,3700011.0
+Malawi,2024,3525000.0
+Mali,2016,6310000.0
+Mali,2017,4532986.0
+Mali,2018,8799914.0
+Mali,2019,2550000.0
+Mali,2020,4000213.0
+Mali,2022,13199999.0
+Mali,2023,6900031.0
+Mali,2024,7950014.1
+Mauritania,2018,2975873.0
+Mauritania,2020,3000000.0
+Mauritania,2022,1500000.0
+Mauritania,2024,1179652.0
+Mauritania,2025,2200000.0
+Mongolia,2016,854787.0
+Mongolia,2017,700000.0
+Mongolia,2024,700000.0
+Mozambique,2016,4238117.0
+Mozambique,2017,599884.0
+Mozambique,2019,15016189.0
+Mozambique,2020,5105371.0
+Mozambique,2021,3049999.0
+Mozambique,2022,2153157.0
+Mozambique,2023,3999922.0
+Mozambique,2024,8977970.780000001
+Mozambique,2025,4153146.72
+Mozambique,2026,3360197.1799999997
+Myanmar,2016,2497252.0
+Myanmar,2017,2421022.0
+Myanmar,2018,5680052.0
+Myanmar,2019,1550000.0
+Myanmar,2021,5800000.0
+Myanmar,2022,5900501.0
+Myanmar,2023,5300000.0
+Myanmar,2024,3000000.0
+Myanmar,2025,1500000.0
+Namibia,2020,1157001.0
+Namibia,2024,1499579.46
+Nepal,2016,1717995.0
+Nepal,2017,1899852.0
+Nepal,2021,1864626.0
+Nepal,2022,2508426.0
+Nepal,2024,1861399.0
+Nicaragua,2020,900000.0
+Niger,2016,1905006.0
+Niger,2017,4600321.0
+Niger,2018,3926858.0
+Niger,2019,4498641.0
+Niger,2020,6051088.0
+Niger,2022,17800095.0
+Niger,2024,7576451.01
+Niger,2025,4750000.37
+Niger,2026,2250000.0
+Nigeria,2016,8495509.0
+Nigeria,2017,7152958.0
+Nigeria,2021,17900027.0
+Nigeria,2022,11501158.0
+Nigeria,2023,7000000.0
+Nigeria,2024,10156278.83
+Nigeria,2025,3650129.62
+Pakistan,2018,4550606.0
+Pakistan,2019,6500015.0
+Pakistan,2020,6313846.0
+Pakistan,2022,1950280.0
+Pakistan,2023,1902123.0
+Pakistan,2025,1200000.09
+Papua New Guinea,2016,3999485.0
+Papua New Guinea,2018,3498461.0
+Peru,2017,288286.0
+Peru,2023,1910000.0
+Philippines,2018,2049997.0
+Philippines,2020,666954.0
+Philippines,2021,2999527.0
+Philippines,2024,5055727.84
+Philippines,2025,2478246.56
+Republic of Congo,2016,477815.0
+Republic of Congo,2017,2243835.0
+Republic of Congo,2018,1150000.0
+Republic of Congo,2019,1236000.0
+Republic of Congo,2020,3757733.0
+Republic of Congo,2024,400000.0
+Republic of the Sudan,2016,7446175.0
+Republic of the Sudan,2017,13160594.0
+Republic of the Sudan,2018,7790748.0
+Republic of the Sudan,2019,12358816.0
+Republic of the Sudan,2020,32973215.0
+Republic of the Sudan,2021,550000.0
+Republic of the Sudan,2022,17100030.0
+Republic of the Sudan,2023,16000782.0
+Republic of the Sudan,2024,21499999.9
+Republic of the Sudan,2025,6999962.43
+Rwanda,2016,3321531.0
+Rwanda,2018,2200000.0
+Rwanda,2020,200000.0
+Rwanda,2023,1100000.0
+Saint Vincent and the Grenadines,2021,600000.0
+Somalia,2016,6883844.0
+Somalia,2017,13586556.0
+Somalia,2018,9967099.0
+Somalia,2019,21145904.0
+Somalia,2020,6685516.0
+Somalia,2021,13900144.0
+Somalia,2022,14503346.0
+Somalia,2023,12250000.0
+Somalia,2024,3500128.66
+Somalia,2025,8650071.24
+South Sudan,2016,3686743.0
+South Sudan,2017,3454846.0
+South Sudan,2019,9294842.0
+South Sudan,2020,18799798.0
+South Sudan,2021,15579935.0
+South Sudan,2022,13520000.0
+South Sudan,2023,17999992.0
+South Sudan,2024,2000000.0
+South Sudan,2025,2889999.6
+Southern Africa,2020,2000000.0
+Sri Lanka,2016,756343.0
+Sri Lanka,2017,3249836.0
+Sri Lanka,2022,2900000.0
+Sri Lanka,2025,2000000.78
+Swaziland,2016,2801868.0
+Syrian Arab Republic,2020,14012197.0
+Syrian Arab Republic,2021,2200000.0
+Syrian Arab Republic,2022,8999999.0
+Syrian Arab Republic,2023,3000000.0
+Syrian Arab Republic,2024,8313464.07
+Timor-Leste,2016,846703.0
+Timor-Leste,2024,1570819.0
+Tonga,2022,250000.0
+Türkiye,2023,2100016.0
+Uganda,2016,10175434.0
+Uganda,2017,5800003.0
+Uganda,2018,5784558.0
+Uganda,2019,6433012.0
+Uganda,2020,800000.0
+Uganda,2022,4150000.0
+Uganda,2023,2400000.0
+Uganda,2025,1000009.12
+Ukraine,2019,557963.0
+Ukraine,2022,15500052.0
+United Republic of Tanzania,2016,2000000.0
+United Republic of Tanzania,2018,3792763.0
+United Republic of Tanzania,2019,1989324.0
+Vanuatu,2020,639262.0
+Vanuatu,2023,500000.0
+Venezuela,2021,400000.0
+Venezuela,2022,2500000.0
+Venezuela,2023,3000000.0
+Venezuela,2025,1700000.0
+Viet Nam,2016,665005.0
+Viet Nam,2017,1000000.0
+Viet Nam,2025,500000.3
+Yemen,2016,1400001.0
+Yemen,2017,15846715.0
+Yemen,2018,25489842.0
+Yemen,2019,31666052.0
+Yemen,2020,30000000.0
+Yemen,2021,2224000.0
+Yemen,2022,14748077.0
+Yemen,2023,10300000.0
+Yemen,2024,13000001.120000001
+Zambia,2018,1058885.0
+Zambia,2019,4360000.0
+Zambia,2024,3257555.0
+Zambia,2025,3600805.1799999997
+Zimbabwe,2018,230175.0
+Zimbabwe,2019,6198945.0
+Zimbabwe,2020,27789121.0
+Zimbabwe,2023,1200000.0
+Zimbabwe,2024,1999969.0
+occupied Palestinian territory,2019,2283409.0
+occupied Palestinian territory,2023,5000000.0
